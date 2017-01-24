@@ -1,0 +1,24 @@
+.contenedor {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: baseline;
+    align-content: space-around;
+    border-radius: 15px;
+    background-color: LightGreen;
+    padding: 10px;
+    margin: 100px auto;
+    width: 172px;
+    height: 316px;
+    text-align: center;
+    font-weight: bold;
+}
+.item {
+    padding-top: 18px;
+    width: 63px;
+    height: 41px;
+    background-color: DarkOrange;
+    border-radius: 37px;
+    margin: -15px;
+}
